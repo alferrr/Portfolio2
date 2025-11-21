@@ -1,0 +1,81 @@
+.hero {
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  header {
+    height: auto;
+    flex-direction: column;
+    gap: 0.2em;
+    margin: 0;
+
+    h1 {
+      font-size: 2rem;
+    }
+
+    nav {
+      ul {
+        gap: 2em;
+      }
+    }
+  }
+
+  .line {
+    width: 100%;
+  }
+
+  main {
+    font-size: 1.2rem;
+  }
+}
+
+.intro {
+  h3 {
+    padding-top: 15px;
+    font-size: 3rem;
+  }
+
+  li {
+    text-align: center;
+    margin: 0 auto;
+  }
+}
+
+.page1 {
+  padding-top: 100px;
+  flex-direction: column;
+
+  .block {
+    width: 95%;
+    height: auto;
+
+    ul {
+      padding-left: 20px;
+    }
+  }
+}
+
+.page2 {
+  h2 {
+    font-size: 3rem;
+  }
+}
+
+.page3 {
+  .container {
+    height: auto;
+    flex-direction: column;
+
+    .block {
+      width: 90%;
+      height: auto;
+      background: rgba(255, 255, 255, 0.1);
+    }
+  }
+}
+
+.page4 {
+  padding-top: 20px;
+}
+
+.references {
+  padding-bottom: 20px;
+}
