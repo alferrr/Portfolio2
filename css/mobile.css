@@ -20,6 +20,7 @@
 
   .line {
     width: 100%;
+    top: 9.5vh;
   }
 
   main {
@@ -31,6 +32,10 @@
   h3 {
     padding-top: 15px;
     font-size: 3rem;
+  }
+
+  ul {
+    margin: 0 12px;
   }
 
   li {
