@@ -109,7 +109,7 @@ body {
     padding-top: 10px;
     font-size: 4rem;
     text-align: center;
-    text-shadow: 0 0 4rem white;
+    text-shadow: 0 0 2rem rgba(255, 255, 255, 0.608);
   }
 
   ul {
@@ -202,7 +202,7 @@ body {
 
   h2 {
     font-size: 4rem;
-    text-shadow: 0 0 4rem white;
+    text-shadow: 0 0 2rem rgba(255, 255, 255, 0.551);
     padding: 20px 0 1em;
     text-align: center;
   }
@@ -258,7 +258,7 @@ body {
 
   h2 {
     font-size: 4rem;
-    text-shadow: 0 0 4rem white;
+    text-shadow: 0 0 2rem rgba(255, 255, 255, 0.625);
     text-align: center;
   }
 
@@ -267,7 +267,7 @@ body {
     font-size: 1.1rem;
     margin: 0 auto;
     line-height: 2em;
-    border: 0.1px solid rgba(255, 255, 255, 0.429);
+    border: 0.1px solid rgba(255, 255, 255, 0.262);
     padding: 20px;
     border-radius: 20px;
     text-align: center;
